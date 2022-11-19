@@ -3,7 +3,7 @@ This is another project that is part from freecodecamp's yt channel! link: https
 
 Very little javascript was necessary due to past projects.
 
-At last, these challenges are in fact, made by myself, I really only take experience from the original source referenced bellow!
+At last, these challenges are in fact, made by myself, I really only take the base model from the original source referenced bellow!
 
 ## Reference:
 https://vanilla-js-basic-project-5-sidebar.netlify.app/
